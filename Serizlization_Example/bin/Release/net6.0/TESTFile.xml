@@ -1,0 +1,1 @@
+<Fish xmlns="http://schemas.datacontract.org/2004/07/Serizlization_Example" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><food>meat</food><gender>male</gender><name>A_Fish</name></Fish>

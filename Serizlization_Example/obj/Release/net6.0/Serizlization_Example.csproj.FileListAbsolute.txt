@@ -1,0 +1,15 @@
+D:\visualcode\Serizlization_Example\bin\Release\net6.0\Serizlization_Example.exe
+D:\visualcode\Serizlization_Example\bin\Release\net6.0\Serizlization_Example.deps.json
+D:\visualcode\Serizlization_Example\bin\Release\net6.0\Serizlization_Example.runtimeconfig.json
+D:\visualcode\Serizlization_Example\bin\Release\net6.0\Serizlization_Example.dll
+D:\visualcode\Serizlization_Example\bin\Release\net6.0\Serizlization_Example.pdb
+D:\visualcode\Serizlization_Example\obj\Release\net6.0\Serizlization_Example.csproj.AssemblyReference.cache
+D:\visualcode\Serizlization_Example\obj\Release\net6.0\Serizlization_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcode\Serizlization_Example\obj\Release\net6.0\Serizlization_Example.AssemblyInfoInputs.cache
+D:\visualcode\Serizlization_Example\obj\Release\net6.0\Serizlization_Example.AssemblyInfo.cs
+D:\visualcode\Serizlization_Example\obj\Release\net6.0\Serizlization_Example.csproj.CoreCompileInputs.cache
+D:\visualcode\Serizlization_Example\obj\Release\net6.0\Serizlization_Example.dll
+D:\visualcode\Serizlization_Example\obj\Release\net6.0\refint\Serizlization_Example.dll
+D:\visualcode\Serizlization_Example\obj\Release\net6.0\Serizlization_Example.pdb
+D:\visualcode\Serizlization_Example\obj\Release\net6.0\Serizlization_Example.genruntimeconfig.cache
+D:\visualcode\Serizlization_Example\obj\Release\net6.0\ref\Serizlization_Example.dll
